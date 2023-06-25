@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\EasyFishGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3C8A11E1-E27C-42E0-8669-CEC032EE6B3C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EasyFishGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EasyFishGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8FE4A7E0-F108-4C23-BBB5-47E0F93747DE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\EasyFishGame">
+      <UniqueIdentifier>{3274C5A9-1731-4914-B71F-5754A76CBCAB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\EasyFishGame\ClassicFishPawn.cpp">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EasyFishGame\ClassicFishPawn.h">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\EasyFishGame\EasyFishGame.Build.cs">
+      <Filter>Source\EasyFishGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\EasyFishGame\EasyFishGame.cpp">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EasyFishGame\EasyFishGame.h">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EasyFishGame\EasyFishGameGameModeBase.cpp">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EasyFishGame\EasyFishGameGameModeBase.h">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EasyFishGame\EndGameWidget.cpp">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EasyFishGame\EndGameWidget.h">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EasyFishGame\EnemySpawnControll.cpp">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EasyFishGame\EnemySpawnControll.h">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EasyFishGame\FishAggressiveEnemy.cpp">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EasyFishGame\FishAggressiveEnemy.h">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EasyFishGame\FishPawnWithTraectory.cpp">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EasyFishGame\FishPawnWithTraectory.h">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EasyFishGame\LittleFishEnemy.cpp">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EasyFishGame\LittleFishEnemy.h">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EasyFishGame\MainMenu.cpp">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EasyFishGame\MainMenu.h">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EasyFishGame\MainMenuWidget.cpp">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EasyFishGame\MainMenuWidget.h">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EasyFishGame\PlayerPawn.cpp">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EasyFishGame\PlayerPawn.h">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EasyFishGame\PlaygraundBorder.cpp">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EasyFishGame\PlaygraundBorder.h">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EasyFishGame\TestAggressiv.cpp">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EasyFishGame\TestAggressiv.h">
+      <Filter>Source\EasyFishGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

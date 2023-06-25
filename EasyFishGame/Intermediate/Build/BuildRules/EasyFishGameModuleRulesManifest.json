@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\EasyFishGame\\EasyFishGame\\Source\\EasyFishGame\\EasyFishGame.Build.cs",
+		"D:\\Unreal Projects\\EasyFishGame\\EasyFishGame\\Source\\EasyFishGame.Target.cs",
+		"D:\\Unreal Projects\\EasyFishGame\\EasyFishGame\\Source\\EasyFishGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.0"
+}

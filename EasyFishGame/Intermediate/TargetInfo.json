@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EasyFishGame",
+			"Path": "D:\\Unreal Projects\\EasyFishGame\\EasyFishGame\\Source\\EasyFishGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EasyFishGameEditor",
+			"Path": "D:\\Unreal Projects\\EasyFishGame\\EasyFishGame\\Source\\EasyFishGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
